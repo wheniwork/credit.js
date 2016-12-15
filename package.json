@@ -1,6 +1,6 @@
 {
   "name": "credit.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Parse and validate credit card data.",
   "main": "./dist/index.js",
   "scripts": {
