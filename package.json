@@ -1,6 +1,6 @@
 {
   "name": "credit.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse and validate credit card data.",
   "main": "src/index.js",
   "scripts": {
@@ -13,5 +13,9 @@
     "es6"
   ],
   "author": "Daniel Olfelt <dolfelt@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wheniwork/credit.js.git"
+  }
 }
