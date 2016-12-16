@@ -4,7 +4,9 @@ var webpack = require('webpack');
 module.exports = {
   entry: './src/index.js',
   output: {
-    path: path.join(__dirname, 'dist'),
+    library: 'Credit.js',
+    libraryTarget: 'umd',
+    path: path.join(__dirname, 'lib'),
     filename: 'index.js',
   },
   plugins: [
